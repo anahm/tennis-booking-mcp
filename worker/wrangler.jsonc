@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "rec-us-mcp-server",
+	"name": "tennis-booking-mcp",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-10",
 	"compatibility_flags": ["nodejs_compat"],
@@ -34,7 +34,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "KV",
-			"id": "56fa6b92469d46be87850d26d172f1dd",
+			"id": "e9a71e074ffceacc63c7c8d7bd66603a",
 			"preview_id": "853def346e054bccb6cf1b7674a1d86e"
 		}
 	],
