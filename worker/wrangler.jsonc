@@ -6,6 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "tennis-booking-mcp",
 	"main": "src/index.ts",
+	"account_id": "e9a71e074ffceacc63c7c8d7bd66603a",
 	"compatibility_date": "2025-03-10",
 	"compatibility_flags": ["nodejs_compat"],
 	"migrations": [
